@@ -1,6 +1,6 @@
 # Music-Tags-Editor 🎵
 
-[🇬🇧 English](#english) | [🇹🇷 Türkçe](#turkce)
+[🇬🇧 English](#english) | [🇹🇷 Türkçe](#-türkçe)
 
 ---
 
@@ -126,7 +126,7 @@ This project is distributed under the MIT License.
 
 ---
 
-## 🇹🇷 Türkçe {#turkce}
+## 🇹🇷 Türkçe
 
 Kişisel müzik arşivinizi organize etmek için geliştirilmiş, dosya isimlerini analiz ederek MP3 ve diğer ses dosyalarının metadata (ID3) etiketlerini otomatik olarak düzenleyen Python aracı.
 
