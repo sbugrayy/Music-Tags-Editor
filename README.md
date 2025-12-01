@@ -2,8 +2,6 @@
 
 [🇬🇧 English](#english) | [🇹🇷 Türkçe](#-türkçe)
 
----
-
 ## 🇬🇧 English
 
 A Python tool developed to organize your personal music archive by automatically editing metadata (ID3) tags of MP3 and other audio files by analyzing file names.
